@@ -45,9 +45,10 @@
 
 ## Output
 
+![image](https://github.com/rsubash17/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/147139828/c63c11df-7f3c-434b-8ea8-143041796dc5)
 
-### Name:
-### Register Number: 
+### Name: SUBASH R
+### Register Number: 212223230218
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
